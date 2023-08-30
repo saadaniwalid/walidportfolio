@@ -34,9 +34,8 @@ const Home = () => {
             animate="show"
             exit="hidden"
           >
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour
+            I am a graphic designer, UX/UI designer
+& front-end web developer, I'm passionate about cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX. 
           </motion.p>
           <div className="flex justify-center xl:hidden reltive">
             <ProjectsBtn />
